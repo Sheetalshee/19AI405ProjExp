@@ -1,6 +1,6 @@
 ## Implement a Sudoku Solver From Scratch
-## NAME:Pragaharshitha NC
-## REG.NO:212222110033
+## NAME: SHEETAL.R
+## REG.NO: 212223230206
 
 ## AIM:
 To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
